@@ -37,5 +37,5 @@ Use Python to analyze hotel booking and revenue trends, and provide data-driven 
 ---
 
 ## 🔗 GitHub Repository:
-[📂 Explore the full project]([https://lnkd.in/dvzgdJSW](https://www.linkedin.com/posts/muskankumawat888_hotelanalysis-activity-7351141066412130306-Xmum?utm_source=share&utm_medium=member_desktop&rcm=ACoAAECaNikBuHQW7Xd_A4WLtc88Rvv-PLcmwp0))
+[📂 Explore the full project](https://www.linkedin.com/posts/muskankumawat888_hotelanalysis-activity-7351141066412130306-Xmum?utm_source=share&utm_medium=member_desktop&rcm=ACoAAECaNikBuHQW7Xd_A4WLtc88Rvv-PLcmwp0)
 
